@@ -1,0 +1,16 @@
+paddleocr
+datasets==1.15.1
+transformers
+seqeval==1.2.2
+--extra-index-url https://download.pytorch.org/whl/cu117
+torch==1.13.1+cu117
+torchvision==0.14.1+cu117
+
+tensorboard==2.7.0
+seqeval==1.2.2
+sentencepiece
+timm==0.4.12
+Pillow
+einops
+textdistance
+shapely
